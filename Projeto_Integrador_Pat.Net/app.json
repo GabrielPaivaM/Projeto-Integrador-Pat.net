@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Projeto_Integrador_Pat.Net",
+    "slug": "Projeto_Integrador_Pat.Net",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "config": {
+        "googleMapsApiKey": "AIzaSyAsPIK77-bMRSgg87OhiUObILRbjhMQfPw"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyAsPIK77-bMRSgg87OhiUObILRbjhMQfPw"
+        }
+      },
+      "package": "com.anonymous.Projeto_Integrador_Pat.Net"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
